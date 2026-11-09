@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " mojarra.aternos.host",
+    "ip": "mojarra.aternos.host",
     "port": 32410,
     "version": "1.21.1"
   },
